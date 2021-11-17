@@ -543,6 +543,15 @@ section {
   margin-right: 20px;
   color: #1E73BE;
 }
+
+.counts .count-box .orange {
+  color: #ee6c20;
+}
+
+.counts .count-box .maroon {
+  color: #bb0852;
+}
+
 .counts .count-box span {
   font-size: 36px;
   display: block;
